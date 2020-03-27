@@ -1,5 +1,4 @@
-import crypto from 'crypto';
-
-export default function generateUniqueId() {
+const crypto = require('crypto');
+module.exports = function generateUniqueId() {
   return crypto.randomBytes(4).toString('HEX');
 }
