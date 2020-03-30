@@ -57,4 +57,6 @@ Este projeto está sobre a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) pa
 
 ---
 
-<center>Feito com ❤️ by Gustavo Souza</center>
+<h4 align="center">
+  Feito com ❤️ by Gustavo Souza
+</h4>
