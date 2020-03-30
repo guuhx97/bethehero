@@ -16,7 +16,7 @@
 
 
 <div align="center">
-    <img alt="Be The Hero" src="../.github/mobile-incial.png" width="250px" />
+    <img alt="Be The Hero" src="../.github/mobile-inicial.png" width="250px" />
      <img alt="Be The Hero" src="../.github/mobile-caso.png" width="250px" />
 </div>
 
