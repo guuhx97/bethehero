@@ -12,22 +12,17 @@
 </p>
 
 ## 📱 Interfaces
-
+O aplicativo mobile é composto por três interfaces, sendo uma delas apenas a interface de carregamento enquanto as outras duas são de interação com o usuário. Na interface principal o usuário verá todos os incidentes que foram cadastrados pelas ONGs. Por fim, tem temos uma terceira interface onde é mostrado com mais detalhes o incidente  e onde o usuário pode entrar em contato com a ONG, via Whatsapp ou E-mail.
 
 
 <div align="center">
-    <img alt="Be The Hero" src="../.github/mobile-inicial.png" width="250px" />
-     <img alt="Be The Hero" src="../.github/mobile-caso.png" width="250px" />
+    <img alt="Be The Hero" src="../.github/mobile-carregamento.jpeg" width="200px" height="355.5px"/>
+    <img alt="Be The Hero" src="../.github/mobile-inicial.png" width="200px" />
+    <img alt="Be The Hero" src="../.github/mobile-caso.png" width="200px" />
+    <img alt="Be The Hero" src="../.github/be-the-hero.gif" width="200px" height="355.5px" />
 </div>
 
-## 🔄 Funcionamento
-
-<div align="center">
-    <img alt="Be The Hero" src="../.github/be-the-hero.gif" width="250px" />
-
-</div>
-
-## 🏃 Executar
+## 🔄 Executar
 - Entrar na pasta `mobile`;
  - Executar `yarn install` para instalar dependências do projeto;
  - Executar `yarn start` para que o projeto seja executado;
