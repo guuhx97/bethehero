@@ -20,7 +20,7 @@ A aplicação frontend conta com quatro interface, onde duas delas são interfac
 </div>
 
 ## 🔄 Executar
-- Entrar na pasta `mobile`;
+- Entrar na pasta `frontend`;
  - Executar `yarn install` para instalar dependências do projeto;
  - Executar `yarn start` para que o projeto seja executado;
 
